@@ -6,7 +6,7 @@
 /*   By: frukundo <frukundo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/23 08:06:31 by frukundo          #+#    #+#             */
-/*   Updated: 2023/11/25 18:35:52 by frukundo         ###   ########.fr       */
+/*   Updated: 2023/11/26 15:34:03 by frukundo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 # define GET_NEXT_LINE_BONUS_H
 
 # ifndef BUFFER_SIZE
-#  define BUFFER_SIZE 10 
+#  define BUFFER_SIZE 42
 # endif
 
 # include <stdlib.h>
